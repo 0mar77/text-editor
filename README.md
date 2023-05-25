@@ -6,7 +6,7 @@
 - This project can help people stay organized
 - Building this app helped me improve my webpack skills
 
-Link to deployed application: []
+Link to deployed application: [https://text-editor56.herokuapp.com/]
 
 ![JATE](images/jate.png)
 ![JATE](images/jate-two.png)
